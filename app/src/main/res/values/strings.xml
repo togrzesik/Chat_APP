@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Shoutbox</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    //shared pref login
+    <string name="LOGIN_KEY">LOGIN</string>
+    <string name="FILE_KEY">FILE_LOGIN_KEY</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="message_icon">Message_Icon</string>
+    <string name="who_are_you">Who are you?</string>
+    <string name="login">Login</string>
+    <string name="set_login">Set login</string>
+    <string name="error_retrofit_get">nie dziala</string>
+    <string name="message">Message</string>
+    <string name="send_button_chevron_right">send_button_chevron_right</string>
+    <string name="login_text">login</string>
+    <string name="content_text">data tat at atat at a</string>
+    <string name="content_text2">conetnefafdsdf sdf s fd sdf sf sd</string>
+    <string name="edit_content">Edit content</string>
+    <string name="edit_login">Edit login</string>
+    <string name="edit_message">Edit message</string>
+    <string name="content">Content</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="FILE_UPDATE_DELETE">UPDATE_DELETE</string>
+    <string name="Operation">Operation</string>
+    <string name="CONTENT_KEY">Content</string>
+    <string name="LOGIN_UPDATE_KEY">Login</string>
+    <string name="ID_KEY">ID</string>
+    <string name="Settings">Settings</string>
+    <string name="menu_shoutbox">Shoutbox</string>
+</resources>
